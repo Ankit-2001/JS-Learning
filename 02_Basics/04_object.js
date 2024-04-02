@@ -39,3 +39,13 @@ const obj2 = {3: "c" , 4: "d"};
 //Return an nested array with children array have key and values as an element.
 
 //let output = obj_name.hasOwnProperty(property_name) -> return true or false;
+
+
+const course = {
+    coursename: "JS",
+    price: "399",
+    courseInstructor: "Ankit",
+}
+
+// const {courseInstructor} = course;
+// console.log(courseInstructor);
